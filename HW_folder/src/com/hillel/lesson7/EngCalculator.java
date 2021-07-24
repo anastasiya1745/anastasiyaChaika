@@ -8,8 +8,10 @@ public class EngCalculator extends SimpleCalculator {
         Addition(value1,value2);
         Substraction(value1,value2);
         Multiplng(value1,value2);
-
-
+        sinValue(value1);
+        cosValue(value1);
+        tanValue(value1);
+        ctgValue(value1);
 
     }
     public double sinValue(double value1){
