@@ -1,8 +1,7 @@
 package com.hillel.lesson7;
 
 public class EngCalculator extends SimpleCalculator {
-    double value1;
-    double value2;
+
     EngCalculator (){
         sinValue(value1);
         cosValue(value1);
