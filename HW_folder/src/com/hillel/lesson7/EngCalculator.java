@@ -4,10 +4,6 @@ public class EngCalculator extends SimpleCalculator {
     double value1;
     double value2;
     EngCalculator (){
-        Divide(value1,value2);
-        Addition(value1,value2);
-        Substraction(value1,value2);
-        Multiplng(value1,value2);
         sinValue(value1);
         cosValue(value1);
         tanValue(value1);
@@ -27,7 +23,7 @@ public class EngCalculator extends SimpleCalculator {
         return result;
     }
     public double ctgValue(double value1){
-        double result = 1.0/Math.tan(value1);
+        double result = Divide(1.0,Math.tan(value1));
         return result;
     }
 }
