@@ -1,10 +1,7 @@
 package com.hillel.lesson7;
 
 public class FinancialCalculator extends  SimpleCalculator {
-    //double k1 = 0.037;
-    //double k2 = 26.9913;
-    //double k3 = 0.032;
-    //double k4 = 31.74;
+
 
     FinancialCalculator() {
         uahMoveToDoll(value1,value2);

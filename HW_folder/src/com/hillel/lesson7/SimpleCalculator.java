@@ -26,7 +26,7 @@ public class SimpleCalculator {
         public double Divide(double value1, double value2) {
 
                 if(value1/value2==Infinity) {
-                    System.out.println("Divide on 0");
+                    //System.out.println("Divide on 0");
                     return 0;
             }
                 else {
