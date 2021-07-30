@@ -24,17 +24,17 @@ public class EngCalculator extends SimpleCalculator {
         return result;
     }
     public double ctgValue(double value1){
-        double result = Divide(1.0,Math.tan(value1));
+        double result = divide(1.0,Math.tan(value1));
         return result;
     }
     public double moveDegreetoRadian(double value1){
        // 1° × π/180
-        double result = Multiplng(value1, Divide(Math.PI,180));
+        double result = multiplng(value1, divide(Math.PI,180));
         return result;
     }
     public double moveRadianToDegree(double value1){
         // 1rad × 180/π
-        double result = Multiplng(value1, Divide(180,Math.PI));
+        double result = multiplng(value1, divide(180,Math.PI));
         return result;
     }
 }

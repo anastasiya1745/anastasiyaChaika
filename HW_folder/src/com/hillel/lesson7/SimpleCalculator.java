@@ -8,22 +8,22 @@ public class SimpleCalculator {
         double value2;
 
         SimpleCalculator() {
-            Addition(value1,value2);
-            Substraction(value1,value2);
-            Multiplng(value1, value2);
-            Divide(value1,value2);
+            addition(value1,value2);
+            substraction(value1,value2);
+            multiplng(value1, value2);
+            divide(value1,value2);
 
         }
-        public double Addition(double value1, double value2){
+        public double addition(double value1, double value2){
             double result = value1+value2;
 
             return result;
         }
-        public  double Substraction(double value1, double value2) {
+        public  double substraction(double value1, double value2) {
             double result = value1-value2;
             return result;
         }
-        public double Divide(double value1, double value2) {
+        public double divide(double value1, double value2) {
 
                 if(value1/value2==Infinity) {
                     return 0;
@@ -34,7 +34,7 @@ public class SimpleCalculator {
                 }
             }
 
-        public  double Multiplng(double value1, double value2) {
+        public  double multiplng(double value1, double value2) {
             double result = (value1)*(value2);
             return result;
         }
