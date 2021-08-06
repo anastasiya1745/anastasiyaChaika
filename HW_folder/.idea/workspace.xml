@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5d46ccb-1e39-45f4-a33d-5ac388d0d4f0" name="Default Changelist" comment="update Divide() method for SimpleCalculator" />
+    <list default="true" id="bb78dcc5-5a78-45e2-8e1e-ed561e52fe9d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1vlNdam5q2iomBbAmvtdkjg5kBR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1wM8CPaN2ErYmcmkQaixjPQ3jB1" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -74,21 +66,10 @@
       </pane>
     </panes>
   </component>
-  <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.hillel.lesson7" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.hillel.lesson7.Main" />
-      <module name="HW_folder" />
+      <module name="untitled104" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -96,89 +77,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a5d46ccb-1e39-45f4-a33d-5ac388d0d4f0" name="Default Changelist" comment="" />
-      <created>1627132806299</created>
+      <created>1628256970584</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627132806299</updated>
+      <updated>1628256970584</updated>
     </task>
-    <task id="LOCAL-00001" summary="file check branch">
-      <created>1627132942661</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1627132942661</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add simple action for SimpleCalculator and EngCalculator">
-      <created>1627144851859</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1627144851859</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update simple action for EngCalculator">
-      <created>1627145087430</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1627145087430</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update Divide() method for SimpleCalculator">
-      <created>1627233200646</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1627233200646</updated>
-    </task>
-    <task id="LOCAL-00005" summary="update Divide() method for SimpleCalculator">
-      <created>1627233295519</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1627233295519</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="step 1" />
-    <MESSAGE value="file check branch" />
-    <MESSAGE value="add simple action for SimpleCalculator and EngCalculator" />
-    <MESSAGE value="update simple action for EngCalculator" />
-    <MESSAGE value="update Divide() method for SimpleCalculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Divide() method for SimpleCalculator" />
   </component>
 </project>
